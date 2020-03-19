@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41cbff58-d081-4983-a058-833b8b1aa7aa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZMN7JPAiH3VDUc120oAUoFVYyE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="storage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="storage" />
+      <module name="molecule_database" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.storage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41cbff58-d081-4983-a058-833b8b1aa7aa" name="Default Changelist" comment="" />
+      <created>1584644834921</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584644834921</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="93" key="#Project_Structure" timestamp="1584644845943">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="320" y="93" key="#Project_Structure/0.23.1440.809@0.23.1440.809" timestamp="1584644845943" />
+    <state width="1440" height="312" key="GridCell.Tab.0.bottom" timestamp="1584650354682">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1440" height="312" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584650354682" />
+    <state width="1440" height="312" key="GridCell.Tab.0.center" timestamp="1584650354679">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1440" height="312" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1584650354679" />
+    <state width="1440" height="312" key="GridCell.Tab.0.left" timestamp="1584650354678">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1440" height="312" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1584650354678" />
+    <state width="1440" height="312" key="GridCell.Tab.0.right" timestamp="1584650354681">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1440" height="312" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1584650354681" />
+    <state width="1440" height="312" key="GridCell.Tab.1.bottom" timestamp="1584650354312">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1440" height="312" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584650354312" />
+    <state width="1440" height="312" key="GridCell.Tab.1.center" timestamp="1584650354309">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1440" height="312" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1584650354309" />
+    <state width="1440" height="312" key="GridCell.Tab.1.left" timestamp="1584650354307">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1440" height="312" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1584650354307" />
+    <state width="1440" height="312" key="GridCell.Tab.1.right" timestamp="1584650354311">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1440" height="312" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1584650354311" />
+  </component>
+</project>
