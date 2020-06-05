@@ -1,0 +1,9 @@
+bis(tellanylidene)iron
+3
+Te
+Te
+Fe
+0 2
+0 2
+1 2
+1 2

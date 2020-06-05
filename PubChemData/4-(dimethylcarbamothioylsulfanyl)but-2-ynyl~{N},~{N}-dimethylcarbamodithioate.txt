@@ -1,0 +1,69 @@
+4-(dimethylcarbamothioylsulfanyl)but-2-ynyl~{N},~{N}-dimethylcarbamodithioate
+32
+S
+S
+S
+S
+N
+N
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+0 11
+0 12
+1 10
+1 13
+2 10
+2 10
+3 11
+3 11
+4 6
+4 7
+4 10
+5 8
+5 9
+5 11
+6 25
+6 26
+6 27
+7 16
+7 17
+7 24
+8 18
+8 19
+8 20
+9 21
+9 22
+9 23
+12 15
+12 28
+12 29
+13 14
+13 30
+13 31
+14 15
+14 15
+14 15

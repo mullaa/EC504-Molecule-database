@@ -1,0 +1,41 @@
+1-(trichloromethyl)-3-(trifluoromethyl)benzene
+18
+Cl
+Cl
+Cl
+F
+F
+F
+C
+C
+C
+C
+C
+C
+C
+C
+H
+H
+H
+H
+0 12
+1 12
+2 12
+3 13
+4 13
+5 13
+6 8
+6 9
+6 9
+6 12
+7 8
+7 8
+7 10
+7 13
+8 14
+9 11
+9 15
+10 11
+10 11
+10 16
+11 17

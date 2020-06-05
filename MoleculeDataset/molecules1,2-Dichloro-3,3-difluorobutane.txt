@@ -1,0 +1,29 @@
+1,2-Dichloro-3,3-difluorobutane
+14
+Cl
+Cl
+F
+F
+C
+C
+C
+C
+H
+H
+H
+H
+H
+H
+0 4
+1 6
+2 5
+3 5
+4 5
+4 6
+4 8
+5 7
+6 9
+6 10
+7 11
+7 12
+7 13

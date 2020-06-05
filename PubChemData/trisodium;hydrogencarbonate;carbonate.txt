@@ -1,0 +1,23 @@
+trisodium;hydrogencarbonate;carbonate
+12
+Na
+Na
+Na
+O
+O
+O
+O
+O
+O
+C
+C
+H
+3 9
+3 11
+4 9
+5 9
+5 9
+6 10
+7 10
+8 10
+8 10

@@ -1,0 +1,40 @@
+~{N}-(2-chloroethyl)-~{N}-dichlorophosphoryl-2-fluoroethanamine
+19
+Cl
+Cl
+Cl
+P
+F
+O
+N
+C
+C
+C
+C
+H
+H
+H
+H
+H
+H
+H
+H
+0 3
+1 3
+2 9
+3 5
+3 5
+3 6
+4 10
+6 7
+6 8
+7 9
+7 11
+7 12
+8 10
+8 13
+8 14
+9 15
+9 16
+10 17
+10 18

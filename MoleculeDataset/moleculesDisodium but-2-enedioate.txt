@@ -1,0 +1,26 @@
+Disodium but-2-enedioate
+12
+Na
+Na
+O
+O
+O
+O
+C
+C
+C
+C
+H
+H
+2 8
+3 9
+4 8
+4 8
+5 9
+5 9
+6 7
+6 7
+6 8
+6 10
+7 9
+7 11

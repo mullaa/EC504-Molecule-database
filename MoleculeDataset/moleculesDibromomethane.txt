@@ -1,0 +1,11 @@
+Dibromomethane
+5
+Br
+Br
+C
+H
+H
+0 2
+1 2
+2 3
+2 4

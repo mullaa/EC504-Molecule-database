@@ -1,0 +1,41 @@
+2-(chloromethyl)-4,6-bis(trichloromethyl)-1,3,5-triazine
+18
+Cl
+Cl
+Cl
+Cl
+Cl
+Cl
+Cl
+N
+N
+N
+C
+C
+C
+C
+C
+C
+H
+H
+0 13
+1 13
+2 13
+3 14
+4 14
+5 14
+6 15
+7 10
+7 10
+7 11
+8 11
+8 11
+8 12
+9 10
+9 12
+9 12
+10 13
+11 14
+12 15
+15 16
+15 17

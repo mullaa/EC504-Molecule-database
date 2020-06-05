@@ -1,0 +1,9 @@
+oxygen(2-);tantalum(5+)
+7
+Ta
+Ta
+O
+O
+O
+O
+O

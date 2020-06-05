@@ -1,0 +1,12 @@
+Methylmercury(1+);chloride
+6
+Hg
+Cl
+C
+H
+H
+H
+0 2
+2 3
+2 4
+2 5

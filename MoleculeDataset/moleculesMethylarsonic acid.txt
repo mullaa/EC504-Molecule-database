@@ -1,0 +1,22 @@
+Methylarsonic acid
+10
+As
+O
+O
+O
+C
+H
+H
+H
+H
+H
+0 1
+0 2
+0 3
+0 3
+0 4
+1 8
+2 9
+4 5
+4 6
+4 7

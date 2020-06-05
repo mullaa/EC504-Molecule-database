@@ -1,0 +1,17 @@
+Sodium oxalate
+8
+Na
+Na
+O
+O
+O
+O
+C
+C
+2 6
+3 7
+4 6
+4 6
+5 7
+5 7
+6 7

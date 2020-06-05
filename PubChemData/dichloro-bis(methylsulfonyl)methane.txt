@@ -1,0 +1,39 @@
+dichloro-bis(methylsulfonyl)methane
+17
+Cl
+Cl
+S
+S
+O
+O
+O
+O
+C
+C
+C
+H
+H
+H
+H
+H
+H
+0 8
+1 8
+2 4
+2 4
+2 5
+2 5
+2 8
+2 9
+3 6
+3 6
+3 7
+3 7
+3 8
+3 10
+9 11
+9 12
+9 13
+10 14
+10 15
+10 16

@@ -1,0 +1,11 @@
+Isocyanic acid
+4
+O
+N
+C
+H
+0 2
+0 2
+1 2
+1 2
+1 3

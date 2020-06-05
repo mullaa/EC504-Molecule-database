@@ -1,0 +1,59 @@
+~{N}-(4-bromo-3-chlorophenyl)-1-ethoxycarbonylsulfanylmethanimidothioicacid
+26
+Br
+Cl
+S
+S
+O
+O
+N
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+H
+H
+H
+H
+H
+H
+H
+H
+H
+0 12
+1 10
+2 15
+2 16
+3 15
+3 25
+4 13
+4 16
+5 16
+5 16
+6 7
+6 15
+6 15
+7 8
+7 8
+7 9
+8 10
+8 17
+9 11
+9 11
+9 18
+10 12
+10 12
+11 12
+11 19
+13 14
+13 20
+13 21
+14 22
+14 23
+14 24

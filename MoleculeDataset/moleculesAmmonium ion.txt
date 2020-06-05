@@ -1,0 +1,11 @@
+Ammonium ion
+5
+N
+H
+H
+H
+H
+0 1
+0 2
+0 3
+0 4

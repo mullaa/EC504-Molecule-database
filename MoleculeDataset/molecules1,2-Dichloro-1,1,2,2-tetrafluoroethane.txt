@@ -1,0 +1,17 @@
+1,2-Dichloro-1,1,2,2-tetrafluoroethane
+8
+Cl
+Cl
+F
+F
+F
+F
+C
+C
+0 6
+1 7
+2 6
+3 6
+4 7
+5 7
+6 7

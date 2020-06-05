@@ -1,0 +1,21 @@
+Methanesulfonic acid
+9
+S
+O
+O
+O
+C
+H
+H
+H
+H
+0 1
+0 2
+0 2
+0 3
+0 3
+0 4
+1 8
+4 5
+4 6
+4 7

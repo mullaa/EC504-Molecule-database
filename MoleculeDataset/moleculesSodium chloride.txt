@@ -1,0 +1,11 @@
+Sodium chloride
+2
+Cl
+Na
+0 1
+0 1
+0 1
+0 1
+0 1
+0 1
+0 1

@@ -1,0 +1,7 @@
+Cyanide ion
+2
+N
+C
+0 1
+0 1
+0 1

@@ -1,0 +1,17 @@
+Methyl-dichlorsilan
+8
+Cl
+Cl
+Si
+C
+H
+H
+H
+H
+0 2
+1 2
+2 3
+2 4
+3 5
+3 6
+3 7

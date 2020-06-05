@@ -1,0 +1,34 @@
+sodium;(2-amino-2-iminoethyl)sulfanyl-hydroxyphosphinate
+16
+S
+P
+Na
+O
+O
+O
+N
+N
+C
+C
+H
+H
+H
+H
+H
+H
+0 1
+0 8
+1 3
+1 4
+1 5
+1 5
+3 14
+6 9
+6 12
+6 13
+7 9
+7 9
+7 15
+8 9
+8 10
+8 11

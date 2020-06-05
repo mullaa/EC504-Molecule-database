@@ -1,0 +1,29 @@
+1~{H}-pyrazol-4-amine;hydrochloride
+13
+Cl
+N
+N
+N
+C
+C
+C
+H
+H
+H
+H
+H
+H
+0 12
+1 2
+1 5
+1 9
+2 6
+2 6
+3 4
+3 10
+3 11
+4 5
+4 5
+4 6
+5 7
+6 8

@@ -1,0 +1,35 @@
+4-chloro-6-methylsulfanyl-1,3,5-triazin-2-amine
+15
+Cl
+S
+N
+N
+N
+N
+C
+C
+C
+C
+H
+H
+H
+H
+H
+0 8
+1 6
+1 9
+2 6
+2 7
+2 7
+3 6
+3 6
+3 8
+4 7
+4 8
+4 8
+5 7
+5 13
+5 14
+9 10
+9 11
+9 12

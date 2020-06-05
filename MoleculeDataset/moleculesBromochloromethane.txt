@@ -1,0 +1,11 @@
+Bromochloromethane
+5
+Br
+Cl
+C
+H
+H
+0 2
+1 2
+2 3
+2 4

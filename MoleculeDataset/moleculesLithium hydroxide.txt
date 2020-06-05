@@ -1,0 +1,13 @@
+Lithium hydroxide
+3
+O
+Li
+H
+0 1
+0 1
+0 1
+0 1
+0 1
+0 1
+0 1
+0 2

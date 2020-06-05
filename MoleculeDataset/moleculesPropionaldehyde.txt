@@ -1,0 +1,22 @@
+Propionaldehyde
+10
+O
+C
+C
+C
+H
+H
+H
+H
+H
+H
+0 3
+0 3
+1 2
+1 3
+1 4
+1 5
+2 6
+2 7
+2 8
+3 9

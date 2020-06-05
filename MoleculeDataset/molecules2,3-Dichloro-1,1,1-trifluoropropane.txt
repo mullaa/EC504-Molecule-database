@@ -1,0 +1,23 @@
+2,3-Dichloro-1,1,1-trifluoropropane
+11
+Cl
+Cl
+F
+F
+F
+C
+C
+C
+H
+H
+H
+0 5
+1 7
+2 6
+3 6
+4 6
+5 6
+5 7
+5 8
+7 9
+7 10

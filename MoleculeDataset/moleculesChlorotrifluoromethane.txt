@@ -1,0 +1,11 @@
+Chlorotrifluoromethane
+5
+Cl
+F
+F
+F
+C
+0 4
+1 4
+2 4
+3 4

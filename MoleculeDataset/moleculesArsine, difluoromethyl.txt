@@ -1,0 +1,15 @@
+Arsine, difluoromethyl
+7
+As
+F
+F
+C
+H
+H
+H
+0 1
+0 2
+0 3
+3 4
+3 5
+3 6

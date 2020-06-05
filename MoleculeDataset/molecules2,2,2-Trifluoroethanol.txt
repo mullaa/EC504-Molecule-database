@@ -1,0 +1,19 @@
+2,2,2-Trifluoroethanol
+9
+F
+F
+F
+O
+C
+C
+H
+H
+H
+0 5
+1 5
+2 5
+3 4
+3 8
+4 5
+4 6
+4 7

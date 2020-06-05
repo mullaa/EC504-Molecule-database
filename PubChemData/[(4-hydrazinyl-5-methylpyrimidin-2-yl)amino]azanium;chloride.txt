@@ -1,0 +1,50 @@
+[(4-hydrazinyl-5-methylpyrimidin-2-yl)amino]azanium;chloride
+23
+Cl
+N
+N
+N
+N
+N
+N
+C
+C
+C
+C
+C
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+1 8
+1 8
+1 9
+2 5
+2 9
+2 16
+3 9
+3 9
+3 10
+4 6
+4 8
+4 17
+5 18
+5 19
+5 20
+6 21
+6 22
+7 8
+7 10
+7 10
+7 11
+10 12
+11 13
+11 14
+11 15

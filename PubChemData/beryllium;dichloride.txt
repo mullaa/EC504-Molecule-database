@@ -1,0 +1,7 @@
+beryllium;dichloride
+3
+Cl
+Cl
+Be
+0 2
+1 2

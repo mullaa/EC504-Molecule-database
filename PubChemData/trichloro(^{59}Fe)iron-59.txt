@@ -1,0 +1,9 @@
+trichloro(^{59}Fe)iron-59
+4
+Fe
+Cl
+Cl
+Cl
+0 1
+0 2
+0 3

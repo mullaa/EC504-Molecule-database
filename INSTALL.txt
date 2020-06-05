@@ -1,0 +1,61 @@
+INSTALL
+
+## PRE-CONDITIONS
+
+This project works in a Windows, Mac OS and Linux machine.
+
+## SUPPORTING FILES (Overview)
+
+A list of non-standard libraries needed for your project to run:
+None.
+It is free to use it on your own IDE !!!
+
+EXMAPLE OF HOW TO USE PROJECT:
+
+CLI:
+We write some example tests of our project in our Main function.
+So there will be some statements printed before using command line.
+
+Android APP:
+Set your Complie SDK Version to 29 and Build Tools Version to 29.0.2. The version of emulator is ‘Pixel 3a XL API 29’.
+Run the ‘MainActivity’, then you will see the main page of the application on the screen.
+Search Function: Delete the word “Search your molecule!” and type the molecule name in the search box then press the SEARCH button, then you will see the result.If the molecule doesn’t exist in the database, you will see “NOT FOUND”, else will see the property of the molecule you search.
+Add Function: Delete the word “Add your molecule!” and type the molecule name in the search box then press the ADD button, then you will see the result. If you add successfully, you will see ”Molecule Added!”.
+
+WebPage UI:
+In moleculeweb folder.
+1. Open the moculeUI.html file and go to the webpage. 
+2. Click the select a file button, you can choose multiple files from your local computer and upload them to our data structure in the backend
+
+DESCRIPTION OF TESTING PATTERNS AND INSTURCTION TO EXERCISE:
+
+Units Test:
+We test our units by testing each function in each class we use.
+You can run the main method in the each class for testing.
+
+Sysrem Test:
+The system test is written in the Main.java. you can run the main method in it for testing.
+We test the addfunction, searchFunction, subgraph search function and the running time in a 10,000 molecules database.
+
+## EXECUTE (Running the project)
+
+1. Choose a location or create a folder to clone the repository. Open up a terminal and "cd" to your location. Then git clone our project, type in the terminal:
+
+git clone https://agile.bu.edu/bitbucket/scm/ep/group2.git
+
+2. Then open the Intellij on your computer, you could directly open your Intellij.
+
+3. Select import project, and find the "molecule database" folder that was cloned to your computer. Please select folder. Press OK to continue.
+
+4. Make sure you use are using Java JDK 1.8.0.
+
+5. Click file select project structure, then click Modules on the left side, then set " " as Source Folder, and then select Paths to set project Output path.
+
+6. Look through the project directory on the left side of the IDE, and find the Main.java file. Right click this file and select 'Run Main.main()'.
+
+7. We already store 10,000 molecule in our database (saved in the Graphwriters.csv). Starting the CLI will read the exsiting database automatically.
+
+8. You can manually addMolecule(), findMolecule(), and  findSubgraph().
+	EXP: addMolecule("water.txt"), findMolecule("water.txt"), findSubgraph("water.txt").
+	P.S. "water.txt" is the file path.
+

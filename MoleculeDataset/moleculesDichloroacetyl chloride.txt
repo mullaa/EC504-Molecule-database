@@ -1,0 +1,16 @@
+Dichloroacetyl chloride
+7
+Cl
+Cl
+Cl
+O
+C
+C
+H
+0 4
+1 4
+2 5
+3 5
+3 5
+4 5
+4 6

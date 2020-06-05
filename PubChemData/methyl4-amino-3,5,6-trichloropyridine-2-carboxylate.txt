@@ -1,0 +1,44 @@
+methyl4-amino-3,5,6-trichloropyridine-2-carboxylate
+19
+Cl
+Cl
+Cl
+O
+O
+N
+N
+C
+C
+C
+C
+C
+C
+C
+H
+H
+H
+H
+H
+0 9
+1 10
+2 11
+3 12
+3 13
+4 12
+4 12
+5 8
+5 8
+5 11
+6 7
+6 14
+6 15
+7 9
+7 9
+7 10
+8 9
+8 12
+10 11
+10 11
+13 16
+13 17
+13 18

@@ -1,0 +1,9 @@
+Nitrous oxide
+3
+O
+N
+N
+0 1
+0 1
+1 2
+1 2

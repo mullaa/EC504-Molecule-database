@@ -1,0 +1,27 @@
+1-chloro-2-chlorosulfonyloxyethane
+12
+Cl
+Cl
+S
+O
+O
+O
+C
+C
+H
+H
+H
+H
+0 7
+1 2
+2 3
+2 4
+2 4
+2 5
+2 5
+3 6
+6 7
+6 8
+6 9
+7 10
+7 11

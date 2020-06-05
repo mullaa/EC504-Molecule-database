@@ -1,0 +1,44 @@
+Nitrogen mustard N-oxide hydrochloride
+22
+Cl
+Cl
+Cl
+O
+N
+C
+C
+C
+C
+C
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+0 8
+1 9
+2 21
+3 4
+4 5
+4 6
+4 7
+5 8
+5 10
+5 11
+6 9
+6 12
+6 13
+7 14
+7 15
+7 16
+8 17
+8 18
+9 19
+9 20

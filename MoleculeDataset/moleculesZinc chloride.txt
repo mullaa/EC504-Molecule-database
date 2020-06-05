@@ -1,0 +1,7 @@
+Zinc chloride
+3
+Zn
+Cl
+Cl
+0 1
+0 2

@@ -1,0 +1,18 @@
+Phosphoroselenoic acid
+8
+Se
+P
+O
+O
+O
+H
+H
+H
+0 1
+0 1
+1 2
+1 3
+1 4
+2 5
+3 6
+4 7

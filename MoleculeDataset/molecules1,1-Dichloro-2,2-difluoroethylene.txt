@@ -1,0 +1,14 @@
+1,1-Dichloro-2,2-difluoroethylene
+6
+Cl
+Cl
+F
+F
+C
+C
+0 4
+1 4
+2 5
+3 5
+4 5
+4 5

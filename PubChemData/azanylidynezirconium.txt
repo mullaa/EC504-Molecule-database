@@ -1,0 +1,7 @@
+azanylidynezirconium
+2
+Zr
+N
+0 1
+0 1
+0 1

@@ -1,0 +1,14 @@
+Vinylidene chloride
+6
+Cl
+Cl
+C
+C
+H
+H
+0 2
+1 2
+2 3
+2 3
+3 4
+3 5

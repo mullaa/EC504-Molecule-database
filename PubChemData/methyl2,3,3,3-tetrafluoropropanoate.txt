@@ -1,0 +1,30 @@
+methyl2,3,3,3-tetrafluoropropanoate
+14
+F
+F
+F
+F
+O
+O
+C
+C
+C
+C
+H
+H
+H
+H
+0 6
+1 7
+2 7
+3 7
+4 8
+4 9
+5 8
+5 8
+6 7
+6 8
+6 10
+9 11
+9 12
+9 13

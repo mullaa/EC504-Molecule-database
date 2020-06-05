@@ -1,0 +1,17 @@
+Hexachloroethane
+8
+Cl
+Cl
+Cl
+Cl
+Cl
+Cl
+C
+C
+0 6
+1 6
+2 6
+3 7
+4 7
+5 7
+6 7

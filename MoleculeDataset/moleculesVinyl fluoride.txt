@@ -1,0 +1,14 @@
+Vinyl fluoride
+6
+F
+C
+C
+H
+H
+H
+0 1
+1 2
+1 2
+1 3
+2 4
+2 5

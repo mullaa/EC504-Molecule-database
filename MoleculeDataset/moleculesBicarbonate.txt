@@ -1,0 +1,12 @@
+Bicarbonate
+5
+O
+O
+O
+C
+H
+0 3
+0 4
+1 3
+2 3
+2 3

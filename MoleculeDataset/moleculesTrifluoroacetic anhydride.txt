@@ -1,0 +1,29 @@
+Trifluoroacetic anhydride
+13
+F
+F
+F
+F
+F
+F
+O
+O
+O
+C
+C
+C
+C
+0 9
+1 9
+2 9
+3 10
+4 10
+5 10
+6 11
+6 12
+7 11
+7 11
+8 12
+8 12
+9 11
+10 12

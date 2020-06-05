@@ -1,0 +1,7 @@
+Silicon carbide
+2
+Si
+C
+0 1
+0 1
+0 1

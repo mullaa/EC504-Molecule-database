@@ -1,0 +1,23 @@
+1,2-Dibromo-3-chloropropane
+11
+Br
+Br
+Cl
+C
+C
+C
+H
+H
+H
+H
+H
+0 3
+1 4
+2 5
+3 4
+3 5
+3 6
+4 7
+4 8
+5 9
+5 10

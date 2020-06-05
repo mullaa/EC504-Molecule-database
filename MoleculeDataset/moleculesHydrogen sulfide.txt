@@ -1,0 +1,7 @@
+Hydrogen sulfide
+3
+S
+H
+H
+0 1
+0 2

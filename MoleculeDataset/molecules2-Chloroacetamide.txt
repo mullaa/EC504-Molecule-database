@@ -1,0 +1,20 @@
+2-Chloroacetamide
+9
+Cl
+O
+N
+C
+C
+H
+H
+H
+H
+0 3
+1 4
+1 4
+2 4
+2 7
+2 8
+3 4
+3 5
+3 6

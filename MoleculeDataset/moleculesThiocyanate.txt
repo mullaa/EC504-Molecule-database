@@ -1,0 +1,9 @@
+Thiocyanate
+3
+S
+N
+C
+0 2
+1 2
+1 2
+1 2

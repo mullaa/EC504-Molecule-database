@@ -1,0 +1,19 @@
+difluoromethoxy(difluoro)methane
+9
+F
+F
+F
+F
+O
+C
+C
+H
+H
+0 5
+1 6
+2 6
+3 5
+4 5
+4 6
+5 7
+6 8

@@ -1,0 +1,13 @@
+Hydroxyammonium
+6
+O
+N
+H
+H
+H
+H
+0 1
+0 5
+1 2
+1 3
+1 4

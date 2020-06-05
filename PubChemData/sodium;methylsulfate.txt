@@ -1,0 +1,22 @@
+sodium;methylsulfate
+10
+S
+Na
+O
+O
+O
+O
+C
+H
+H
+H
+0 2
+0 3
+0 4
+0 4
+0 5
+0 5
+2 6
+6 7
+6 8
+6 9

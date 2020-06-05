@@ -1,0 +1,16 @@
+Bromoacetate
+7
+Br
+O
+O
+C
+C
+H
+H
+0 3
+1 4
+2 4
+2 4
+3 4
+3 5
+3 6
